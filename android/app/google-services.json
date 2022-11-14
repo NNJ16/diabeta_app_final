@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247730670466",
+    "firebase_url": "https://diabeta-e2bfe-default-rtdb.firebaseio.com",
+    "project_id": "diabeta-e2bfe",
+    "storage_bucket": "diabeta-e2bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247730670466:android:4348a6ed394223efa05d9b",
+        "android_client_info": {
+          "package_name": "com.example.diabeta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247730670466-ggtm24v92sj9b100iv4tdqe4m2sffj19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ZrNeRH6i2FqLkWfQvdEBJR0glLmLqRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247730670466-ggtm24v92sj9b100iv4tdqe4m2sffj19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247730670466-tc414ncddkil5kqcqvqrsn7r4nlo2m9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diabetaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
